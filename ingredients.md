@@ -1,6 +1,5 @@
-Almond milk
-Butter
-Flour
-Salt
+Almond milk,
+Butter,
+Flour,
+Salt,
 Sugar
-Love
