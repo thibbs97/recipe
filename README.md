@@ -1,4 +1,1 @@
-# recipe
-# Read a cook book
-# learn to cook
-# Love
+# Instructions for making yummy waffles!
