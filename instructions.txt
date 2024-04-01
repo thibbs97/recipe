@@ -1,6 +1,4 @@
-<<<<<<<
 We're making waffles!!
->>>>>>> refs/remotes/origin/main
 2 cups of almond milk
 2 teaspoons of sugar 
 1/2 cup of oil
